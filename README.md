@@ -1,5 +1,5 @@
 # Rendering Different Content Types in Rails
-
+change.
 ## Learning Goals
 
 - Override the default Rails view
